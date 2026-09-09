@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3JBE2M98LT.com.protech1inc.PBZ",
+        "appIDs": [
+          "3JBE2M98LT.com.protech1inc.PBZ"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+      }
+    ]
+  }
+}
